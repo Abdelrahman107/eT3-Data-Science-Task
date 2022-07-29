@@ -47,6 +47,8 @@ pip install numpy pandas matplotlib.pyplot seaborn plotly
 <img src="/Screenshots/Fill_Null_Value.png" width=70%>
 
 #### Drop columns
+<img src="/Screenshots/heat.png" width=70%>
+<img src="/Screenshots/hist.png" width=70%>
 <img src="/Screenshots/Drop.png" width=70%>
 
 
